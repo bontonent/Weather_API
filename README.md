@@ -160,8 +160,3 @@ public class App {
 - [ ] add next day, and add in table data at 00:00(24:00)
 
 - [ ] change all minterm, maxterm
-
-
-# Help
-[x] complete
-[x] don't complete
