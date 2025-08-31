@@ -4,12 +4,12 @@ Command for run
 ```
 ./gradlew clean build run 
 ```
-Out in terminal all date for each cities
+Out in terminal all data for each cities
 
 ![img.png](photomd/img.png)
 # My documentation
 ---
-# Step 0 Start Project
+# Step 0 "Start Project"
 #### Create directory
 
 ```
@@ -68,7 +68,7 @@ application {
 }
 ```
 
-### Same kottlin/docker
+### Same kotlin/docker build (in my university project I work with kotlin)
 
 ```
 gradle build
